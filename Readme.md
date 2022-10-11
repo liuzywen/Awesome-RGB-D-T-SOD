@@ -1,7 +1,7 @@
 # RGB-D SOD
-**论文名称** | **code** 
+**Title** | **Code** 
 :--: | :--: 
-CIR-Net: Cross-modality Interaction and Refinement for RGB-D Salient Object Detection | paper[https://arxiv.org/pdf/2210.02843.pdf]
+CIR-Net: Cross-modality Interaction and Refinement for RGB-D Salient Object Detection | [paper](https://arxiv.org/pdf/2210.02843.pdf)
 No2 | (2,1) 
 
 
@@ -12,7 +12,7 @@ SL-Net: self-learning and mutual attention-based distinguished window for RGBD c
 Bimodal Information Fusion Network for Salient Object Detection based on Transformer
 
 # RGB-T SOD
-**名称** |**出处** | **code** 
+**Title** |**Pub** | **Code** 
 :--: | :--: | :--: 
 PSNet: Parallel Symmetric Network for RGB-T Salient Object Detection |NC | paper(https://doi.org/10.1016/j.neucom.2022.09.052)
 *Position-Aware Relation Learning for RGB-Thermal Salient Object Detection|Arxiv| paper(https://arxiv.org/pdf/2209.10158.pdf)
