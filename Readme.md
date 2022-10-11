@@ -29,5 +29,5 @@
 # RGB-T CC
 **Year** |**Model** |**Title** |**Pub**| **Code** 
 :--: | :--: | :--: | :--: | :--: 
-2022|   |Learning the cross-modal discriminative feature representation for RGB-T crowd counting |KBS| [paper](https://doi.org/10.1016/j.neucom.2022.09.052)
+2022|   |Learning the cross-modal discriminative feature representation for RGB-T crowd counting |KBS| [paper](https://doi.org/10.1016/j.knosys.2022.109944)
 
