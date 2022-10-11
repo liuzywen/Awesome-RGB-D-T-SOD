@@ -18,10 +18,10 @@
 
 
 # RGB-T SOD
-**Title** |**Pub** | **Code** 
-:--: | :--: | :--: 
-PSNet: Parallel Symmetric Network for RGB-T Salient Object Detection |NC | paper(https://doi.org/10.1016/j.neucom.2022.09.052)
-*Position-Aware Relation Learning for RGB-Thermal Salient Object Detection|Arxiv| paper(https://arxiv.org/pdf/2209.10158.pdf)
+**Year** |**Model** |**Title** |**Pub**| **Code** 
+:--: | :--: | :--: | :--: | :--: 
+2022| PSNet |PSNet: Parallel Symmetric Network for RGB-T Salient Object Detection |NC | [paper](https://doi.org/10.1016/j.neucom.2022.09.052)
+2022| PRLNet |*Position-Aware Relation Learning for RGB-Thermal Salient Object Detection|Arxiv| [paper](https://arxiv.org/pdf/2209.10158.pdf)
 
 
 
