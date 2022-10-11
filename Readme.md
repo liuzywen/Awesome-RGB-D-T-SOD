@@ -1,7 +1,8 @@
 # RGB-D SOD
 **Year** |**Model** |**Title** |**Pub**| **Code** 
-:--: | :--:|:--: | :--: 
-2022|CIR-Net|CIR-Net: Cross-modality Interaction and Refinement for RGB-D Salient Object Detection |?| [paper](https://arxiv.org/pdf/2210.02843.pdf)
+:--: | :--: | :--: | :--: | :--: 
+2022| CIR-Net |CIR-Net: Cross-modality Interaction and Refinement for RGB-D Salient Object Detection |NC | [paper](https://arxiv.org/pdf/2210.02843.pdf)
+
 
 
 
