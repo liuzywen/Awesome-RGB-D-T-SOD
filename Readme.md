@@ -25,4 +25,5 @@
 **Year** |**Model** |**Title** |**Pub**| **Code** 
 :--: | :--: | :--: | :--: | :--: 
 2022|   |Learning the cross-modal discriminative feature representation for RGB-T crowd counting |KBS| [paper](https://doi.org/10.1016/j.knosys.2022.109944)
+2022|   |Spatio-channel Attention Blocks for Cross-modal Crowd Counting|ACCV| [paper]([https://doi.org/10.1016/j.knosys.2022.109944](https://openaccess.thecvf.com/content/ACCV2022/papers/Zhang_Spatio-channel_Attention_Blocks_for_Cross-modal_Crowd_Counting_ACCV_2022_paper.pdf))
 
